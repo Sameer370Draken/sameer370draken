@@ -12,8 +12,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **Android, python,**
 
-- 📫 How to reach me **sameer00gautam@gmail.com**
-
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
